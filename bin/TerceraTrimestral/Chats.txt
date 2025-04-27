@@ -1,0 +1,25 @@
+Usuario2;Usuario1;Hola!
+Usuario2;Usuario1;Hola
+Usuario2;Usuario1;Hola?
+Usuario2;Usuario1;Que tal?
+Usuario3;Usuario2;Hola?
+Usuario3;Usuario2;Que tal?
+Usuario2;Usuario3;Bien y tu?
+Usuario2;Usuario3;Y ahora? sincroniza?
+Usuario3;Usuario2;ou yeah!
+Usuario2;Usuario1;hola?
+Usuario1;Usuario2;hola?
+Usuario2;Usuario1;por que los tuyos se ven mal?
+Usuario1;Usuario2;ah no, claro que están invertidos!
+Usuario1;Usuario2;hola!
+Usuario2;Usuario1;Que tal?
+Usuario1;Usuario2;ah pues muy bien
+Usuario3;Usuario2;Hola!
+Usuario1;Usuario2;Hola?
+Usuario1;Usuario3;Hola?
+Usuario3;Usuario1;Que tal?
+Usuario1;Usuario3;Bien, pruebas entre usuarios!
+Usuario1;Usuario2;Chat con el usuario 2
+Usuario3;Usuario2;chat con el usuario 2
+Usuario2;Usuario3;chat desde el usuario 2 al 3
+Usuario2;Usuario3;chat desde el usuario 2 al 1
